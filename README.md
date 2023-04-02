@@ -30,5 +30,4 @@ Contributions are welcome. Feel free to open a pull request or an issue if you h
 
 ## Acknowledgments
 
-- The ASCII art used to draw the chess board is based on the work of [Joan Stark](https://github.com/joan-stark).
-- Thanks to [Your Professor's Name] for providing the assignment and guidance on the object-oriented design principles used in this project.
+- Thanks to [Professor Sesh Venugopal] for providing the assignment and guidance on the object-oriented design principles used in this project.
