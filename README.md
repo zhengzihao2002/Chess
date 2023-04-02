@@ -28,6 +28,3 @@ Contributions are welcome. Feel free to open a pull request or an issue if you h
 - [Zihao Zheng](https://github.com/zhengzihao2002)
 - Yiming Huang
 
-## Acknowledgments
-
-- Thanks to [Professor Sesh Venugopal] for providing the assignment and guidance on the object-oriented design principles used in this project.
