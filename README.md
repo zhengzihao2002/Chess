@@ -15,6 +15,7 @@ To play the game, simply run the `ChessGame.java` file using a Java compiler. Th
 - The game can handle special moves such as castling and pawn promotion.
 - The program will display "Black wins", "White wins" or "draw" when the game ends.
 - Has the ability to take a text file as an input and run the game (Need to set mode to "file").
+- The user could offer a draw like this: "a2 a3 draw?"
 
 
 ## Contributing
