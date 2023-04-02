@@ -16,9 +16,6 @@ To play the game, simply run the `ChessGame.java` file using a Java compiler. Th
 - The program will display "Black wins", "White wins" or "draw" when the game ends.
 - Has the ability to take a text file as an input and run the game (Need to set mode to "file").
 
-## Limitations
-
-- The program does not have a graphical user interface, and the game is played entirely in the terminal.
 
 ## Contributing
 
