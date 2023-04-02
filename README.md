@@ -25,7 +25,8 @@ Contributions are welcome. Feel free to open a pull request or an issue if you h
 
 ## Authors
 
-- [Your Name](https://github.com/yourusername)
+- [Zihao Zheng](https://github.com/zhengzihao2002)
+- [Yiming Huang]
 
 ## Acknowledgments
 
