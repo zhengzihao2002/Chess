@@ -25,6 +25,6 @@ Contributions are welcome. Feel free to open a pull request or an issue if you h
 
 ## Group Members
 
-- [Zihao Zheng](https://github.com/zhengzihao2002) - Author, wrote 10% of JavaDoc comments
-- Yiming Huang - BUG finder, wrote 90% of JavaDoc comments
+- [Zihao Zheng](https://github.com/zhengzihao2002) - Author, and additionally wrote 10% of JavaDoc comments
+- Yiming Huang - BUG finder, and additionally wrote 90% of JavaDoc comments
 
