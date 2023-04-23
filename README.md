@@ -25,8 +25,8 @@ Contributions are welcome. Feel free to open a pull request or an issue if you h
 
 ## Group Members
 
-- [Zihao Zheng](https://github.com/zhengzihao2002)
-- Yiming Huang
+- [Zihao Zheng](https://github.com/zhengzihao2002) - Author
+- Yiming Huang - BUG finder
 
 ## Main Contribution members of the project
 - [Zihao Zheng](https://github.com/zhengzihao2002) - 99%
