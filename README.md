@@ -19,10 +19,6 @@ To play the game, simply run the `ChessGame.java` file using a Java compiler. Th
 - The user could resign like this: "resign" , and the opponent would win.
 
 
-## Contributing
-
-Contributions are welcome. Feel free to open a pull request or an issue if you have any suggestions or bug reports.
-
 ## Group Members
 
 - [Zihao Zheng](https://github.com/zhengzihao2002) - Author, and additionally wrote 10% of JavaDoc comments
