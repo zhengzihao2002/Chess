@@ -23,8 +23,10 @@ To play the game, simply run the `ChessGame.java` file using a Java compiler. Th
 
 Contributions are welcome. Feel free to open a pull request or an issue if you have any suggestions or bug reports.
 
-## Authors
+## Group Members
 
 - [Zihao Zheng](https://github.com/zhengzihao2002)
 - Yiming Huang
 
+## Main Contribution members of the project
+- [Zihao Zheng](https://github.com/zhengzihao2002)
