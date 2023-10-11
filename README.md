@@ -22,5 +22,5 @@ To play the game, simply run the `ChessGame.java` file using a Java compiler. Th
 ## Group Members
 
 - [Zihao Zheng](https://github.com/zhengzihao2002) - Author, and additionally wrote 10% of JavaDoc comments
-- Yiming Huang - BUG finder, and additionally wrote 90% of JavaDoc comments
+- Y***** H**** - BUG finder, and additionally wrote 90% of JavaDoc comments
 
